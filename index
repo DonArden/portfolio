@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap">
+		 <link rel="stylesheet" href="styles.css">
+		<title>Don Arden - Portfolio</title>
+	</head>
+	
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1>Don Arden</h1>
+				<p class="tagline">Without fire, no direction. Without form, no journey.</p>
+	
+			</header>
+		
+			<main>
+				<section class="intro-block">
+					<h2>Introduction</h2>
+					<p class="intro1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed diam ex, molestie a ullamcorper et, blandit in ante. Maecenas ultricies vestibulum quam, vitae pellentesque ligula rhoncus sed. Pellentesque tristique felis eget elementum dignissim. 
+					</p>	
+					<p class="intro2">Nunc viverra, tortor et pellentesque semper, eros 
+					nulla vestibulum elit, id maximus dolor enim id sapien. Nulla facilisi. 
+					Curabitur vel augue vitae eros efficitur malesuada. Lorem ipsum dolor 
+					sit amet, consectetur adipiscing elit. Maecenas condimentum velit id 
+					ornare tincidunt. Aliquam hendrerit elit et lacus ultricies, ut 
+					vestibulum nisl pellentesque. Phasellus eu nibh vitae quam faucibus 
+					mollis. 
+					<!--Aliquam erat volutpat. 
+					Fusce erat eros, cursus ac erat et, congue ultrices mi. Aenean sed odio id elit viverra ultricies.-->
+					</p>	
+				</section>
+				<nav class="nav-page" aria-label="Portfolio-sections">
+					<a href="person.html" class="nav-panel p1">
+						<div class="nav-panel-inner">
+							<span>The Person</span>
+						</div>
+					</a>
+					<a href="musician.html" class="nav-panel p2">
+						<div class="nav-panel-inner">
+							<span>The Musician</span>
+						</div>
+					</a>
+					<a href="author.html" class="nav-panel p3">
+						<div class="nav-panel-inner">
+							<span>The Author</span>
+						</div>
+					</a>
+					<a href="artist.html" class="nav-panel p4">
+						<div class="nav-panel-inner">
+							<span>The Comic Artist</span>
+						</div>
+					</a>
+					<a href="webdev.html" class="nav-panel p5">
+						<div class="nav-panel-inner">
+							<span>The Web App Developer</span>
+						</div>
+					</a>
+					<a href="teacher.html" class="nav-panel p6">
+						<div class="nav-panel-inner">
+							<span>The Teacher</span>
+						</div>
+					</a>
+				</nav>
+			</main>
+		
+			<footer>
+				<p>This page and all of its components are in the ownership of Don&amp;SeleneArdenProductions &copy;2025
+				</p>
+			</footer>
+		</div>
+	</body>
+</html>
